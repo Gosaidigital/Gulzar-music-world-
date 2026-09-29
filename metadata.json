@@ -1,0 +1,6 @@
+{
+  "name": "Gulzar Music World",
+  "description": "Chhattisgarhi Music & Studio Platform — Audio, Video, Albums, Artists, and Studio Recording Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
